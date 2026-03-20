@@ -9,7 +9,7 @@
       "skillFolderHash": "f1e3ecb14397a38f742a7f44c06c249e445ca6f1",
       "pluginName": "marketing-skills",
       "installedAt": "2026-03-06T22:10:55.060Z",
-      "updatedAt": "2026-03-06T22:57:30.571Z"
+      "updatedAt": "2026-03-20T09:48:23.958Z"
     },
     "analytics-tracking": {
       "source": "coreyhaines31/marketingskills",
@@ -19,7 +19,7 @@
       "skillFolderHash": "d6d50fd2bd4440bb0f075b4f2818a70667991f8b",
       "pluginName": "marketing-skills",
       "installedAt": "2026-03-06T22:10:55.297Z",
-      "updatedAt": "2026-03-06T22:57:30.845Z"
+      "updatedAt": "2026-03-20T09:48:24.264Z"
     },
     "competitor-alternatives": {
       "source": "coreyhaines31/marketingskills",
@@ -29,17 +29,17 @@
       "skillFolderHash": "4bc4760726d967ec06fa601f341ab5ed014c251f",
       "pluginName": "marketing-skills",
       "installedAt": "2026-03-06T22:10:55.546Z",
-      "updatedAt": "2026-03-06T22:57:31.065Z"
+      "updatedAt": "2026-03-20T09:48:24.551Z"
     },
     "content-strategy": {
       "source": "coreyhaines31/marketingskills",
       "sourceType": "github",
       "sourceUrl": "git@github.com:coreyhaines31/marketingskills.git",
       "skillPath": "skills/content-strategy/SKILL.md",
-      "skillFolderHash": "e28459efd738a0eaa536f5095f93f98ca5df7fec",
+      "skillFolderHash": "cacb03a8610f958ece2096ca38d0c96b1b6299bf",
       "pluginName": "marketing-skills",
       "installedAt": "2026-03-06T22:10:55.783Z",
-      "updatedAt": "2026-03-06T22:57:31.371Z"
+      "updatedAt": "2026-03-20T09:48:24.856Z"
     },
     "copy-editing": {
       "source": "coreyhaines31/marketingskills",
@@ -49,7 +49,7 @@
       "skillFolderHash": "528a03deac36e13b76a955a8719663d4946c7a6d",
       "pluginName": "marketing-skills",
       "installedAt": "2026-03-06T22:10:56.002Z",
-      "updatedAt": "2026-03-06T22:57:31.583Z"
+      "updatedAt": "2026-03-20T09:48:25.232Z"
     },
     "copywriting": {
       "source": "coreyhaines31/marketingskills",
@@ -59,17 +59,17 @@
       "skillFolderHash": "4ac08d315b36a42902eb015f913743a241986011",
       "pluginName": "marketing-skills",
       "installedAt": "2026-03-06T22:10:56.218Z",
-      "updatedAt": "2026-03-06T22:57:31.817Z"
+      "updatedAt": "2026-03-20T09:48:25.578Z"
     },
     "email-sequence": {
       "source": "coreyhaines31/marketingskills",
       "sourceType": "github",
       "sourceUrl": "git@github.com:coreyhaines31/marketingskills.git",
       "skillPath": "skills/email-sequence/SKILL.md",
-      "skillFolderHash": "09076924274a3d70fda875fd581d5fbc649d2dbe",
+      "skillFolderHash": "7aaefdcb801332d35f598eb2f356b451004b1fbd",
       "pluginName": "marketing-skills",
       "installedAt": "2026-03-06T22:10:56.433Z",
-      "updatedAt": "2026-03-06T22:57:32.033Z"
+      "updatedAt": "2026-03-20T09:48:25.786Z"
     },
     "form-cro": {
       "source": "coreyhaines31/marketingskills",
@@ -79,17 +79,17 @@
       "skillFolderHash": "ad53ff2e1e58321af8132170d24bd02b7d2b8d14",
       "pluginName": "marketing-skills",
       "installedAt": "2026-03-06T22:10:56.688Z",
-      "updatedAt": "2026-03-06T22:57:32.269Z"
+      "updatedAt": "2026-03-20T09:48:26.034Z"
     },
     "free-tool-strategy": {
       "source": "coreyhaines31/marketingskills",
       "sourceType": "github",
       "sourceUrl": "git@github.com:coreyhaines31/marketingskills.git",
       "skillPath": "skills/free-tool-strategy/SKILL.md",
-      "skillFolderHash": "3cc05dc9cdf818a8cad365a7e13aa88a7e6748de",
+      "skillFolderHash": "9c85331d3ecac584097c67b822eeec32395f9408",
       "pluginName": "marketing-skills",
       "installedAt": "2026-03-06T22:10:56.921Z",
-      "updatedAt": "2026-03-06T22:57:32.567Z"
+      "updatedAt": "2026-03-20T09:48:26.242Z"
     },
     "launch-strategy": {
       "source": "coreyhaines31/marketingskills",
@@ -99,7 +99,7 @@
       "skillFolderHash": "8022dd22bdb5fd09938d38c54abf063f1daca68f",
       "pluginName": "marketing-skills",
       "installedAt": "2026-03-06T22:10:57.133Z",
-      "updatedAt": "2026-03-06T22:57:32.777Z"
+      "updatedAt": "2026-03-20T09:48:26.446Z"
     },
     "marketing-ideas": {
       "source": "coreyhaines31/marketingskills",
@@ -109,7 +109,7 @@
       "skillFolderHash": "c4fdc0b5badda1bdd6f5182dd023eb18a0f29404",
       "pluginName": "marketing-skills",
       "installedAt": "2026-03-06T22:10:57.355Z",
-      "updatedAt": "2026-03-06T22:57:32.999Z"
+      "updatedAt": "2026-03-20T09:48:26.717Z"
     },
     "marketing-psychology": {
       "source": "coreyhaines31/marketingskills",
@@ -119,7 +119,7 @@
       "skillFolderHash": "ec8b7c10f5707ab69cd6e658a75480cd3e18ceef",
       "pluginName": "marketing-skills",
       "installedAt": "2026-03-06T22:10:57.593Z",
-      "updatedAt": "2026-03-06T22:57:33.275Z"
+      "updatedAt": "2026-03-20T09:48:26.943Z"
     },
     "onboarding-cro": {
       "source": "coreyhaines31/marketingskills",
@@ -129,7 +129,7 @@
       "skillFolderHash": "c04583ce1432d2d9969877cd7cd007e9f4e87e36",
       "pluginName": "marketing-skills",
       "installedAt": "2026-03-06T22:10:57.823Z",
-      "updatedAt": "2026-03-06T22:57:33.580Z"
+      "updatedAt": "2026-03-20T09:48:27.245Z"
     },
     "page-cro": {
       "source": "coreyhaines31/marketingskills",
@@ -139,7 +139,7 @@
       "skillFolderHash": "d3dc4cfd6552df0653f35b5ef4b750bba1126246",
       "pluginName": "marketing-skills",
       "installedAt": "2026-03-06T22:10:58.034Z",
-      "updatedAt": "2026-03-06T22:57:33.853Z"
+      "updatedAt": "2026-03-20T09:48:27.556Z"
     },
     "paid-ads": {
       "source": "coreyhaines31/marketingskills",
@@ -149,7 +149,7 @@
       "skillFolderHash": "e2f1b03529f010bfd165280bb635a1b146ccbb75",
       "pluginName": "marketing-skills",
       "installedAt": "2026-03-06T22:10:58.266Z",
-      "updatedAt": "2026-03-06T22:57:34.129Z"
+      "updatedAt": "2026-03-20T09:48:27.857Z"
     },
     "paywall-upgrade-cro": {
       "source": "coreyhaines31/marketingskills",
@@ -159,17 +159,17 @@
       "skillFolderHash": "23fdb20d9fb8c5c7c0b6b6b750c1ed18a006102d",
       "pluginName": "marketing-skills",
       "installedAt": "2026-03-06T22:10:58.466Z",
-      "updatedAt": "2026-03-06T22:57:34.377Z"
+      "updatedAt": "2026-03-20T09:48:28.065Z"
     },
     "popup-cro": {
       "source": "coreyhaines31/marketingskills",
       "sourceType": "github",
       "sourceUrl": "git@github.com:coreyhaines31/marketingskills.git",
       "skillPath": "skills/popup-cro/SKILL.md",
-      "skillFolderHash": "9a49029d6c356851b9f77a93ec70d2bdc4ec8514",
+      "skillFolderHash": "9765605f67cbfcb2abc966ee19a645d30bb97bb6",
       "pluginName": "marketing-skills",
       "installedAt": "2026-03-06T22:10:58.700Z",
-      "updatedAt": "2026-03-06T22:57:34.604Z"
+      "updatedAt": "2026-03-20T09:48:28.286Z"
     },
     "pricing-strategy": {
       "source": "coreyhaines31/marketingskills",
@@ -179,7 +179,7 @@
       "skillFolderHash": "5de24bfb9a0fce1b389954aed86325f35e99e26f",
       "pluginName": "marketing-skills",
       "installedAt": "2026-03-06T22:10:58.914Z",
-      "updatedAt": "2026-03-06T22:57:34.902Z"
+      "updatedAt": "2026-03-20T09:48:28.568Z"
     },
     "product-marketing-context": {
       "source": "coreyhaines31/marketingskills",
@@ -189,7 +189,7 @@
       "skillFolderHash": "633cdcf2293799e84a37b14361f9439045b2c1a8",
       "pluginName": "marketing-skills",
       "installedAt": "2026-03-06T22:10:59.144Z",
-      "updatedAt": "2026-03-06T22:57:35.113Z"
+      "updatedAt": "2026-03-20T09:48:28.875Z"
     },
     "programmatic-seo": {
       "source": "coreyhaines31/marketingskills",
@@ -199,7 +199,7 @@
       "skillFolderHash": "ebd45df541268af6df1eef6855731b57fe09deb2",
       "pluginName": "marketing-skills",
       "installedAt": "2026-03-06T22:10:59.345Z",
-      "updatedAt": "2026-03-06T22:57:35.330Z"
+      "updatedAt": "2026-03-20T09:48:29.090Z"
     },
     "referral-program": {
       "source": "coreyhaines31/marketingskills",
@@ -209,7 +209,7 @@
       "skillFolderHash": "eec8f49ec442fb179dc51fb05b4bfd5d68dfd39d",
       "pluginName": "marketing-skills",
       "installedAt": "2026-03-06T22:10:59.583Z",
-      "updatedAt": "2026-03-06T22:57:35.546Z"
+      "updatedAt": "2026-03-20T09:48:29.291Z"
     },
     "schema-markup": {
       "source": "coreyhaines31/marketingskills",
@@ -219,7 +219,7 @@
       "skillFolderHash": "7a0e3936ea4cc91c8735148d5964cce5c9ce0bfa",
       "pluginName": "marketing-skills",
       "installedAt": "2026-03-06T22:10:59.933Z",
-      "updatedAt": "2026-03-06T22:57:35.760Z"
+      "updatedAt": "2026-03-20T09:48:29.656Z"
     },
     "seo-audit": {
       "source": "coreyhaines31/marketingskills",
@@ -229,7 +229,7 @@
       "skillFolderHash": "c5423e592d1ce900fafca88b17f3896eea53b237",
       "pluginName": "marketing-skills",
       "installedAt": "2026-03-06T22:11:00.137Z",
-      "updatedAt": "2026-03-06T22:57:36.016Z"
+      "updatedAt": "2026-03-20T09:48:29.873Z"
     },
     "signup-flow-cro": {
       "source": "coreyhaines31/marketingskills",
@@ -239,7 +239,7 @@
       "skillFolderHash": "c37ce3c15716773e4838df861fd6b951c12f3659",
       "pluginName": "marketing-skills",
       "installedAt": "2026-03-06T22:11:00.347Z",
-      "updatedAt": "2026-03-06T22:57:36.249Z"
+      "updatedAt": "2026-03-20T09:48:30.095Z"
     },
     "social-content": {
       "source": "coreyhaines31/marketingskills",
@@ -249,178 +249,178 @@
       "skillFolderHash": "52e605622257a4edf647a859bb22707462d83619",
       "pluginName": "marketing-skills",
       "installedAt": "2026-03-06T22:11:00.561Z",
-      "updatedAt": "2026-03-06T22:57:36.465Z"
+      "updatedAt": "2026-03-20T09:48:30.468Z"
     },
     "adapt": {
       "source": "pbakaus/impeccable",
       "sourceType": "github",
       "sourceUrl": "git@github.com:pbakaus/impeccable.git",
       "skillPath": ".claude/skills/adapt/SKILL.md",
-      "skillFolderHash": "2c822772ed30b96388d0198639b41f75ee836e68",
+      "skillFolderHash": "6b4101efd9ebb23edaafa0f557bfe34aacacbc97",
       "installedAt": "2026-03-06T22:11:02.933Z",
-      "updatedAt": "2026-03-06T22:57:39.470Z"
+      "updatedAt": "2026-03-20T09:48:33.582Z"
     },
     "animate": {
       "source": "pbakaus/impeccable",
       "sourceType": "github",
       "sourceUrl": "git@github.com:pbakaus/impeccable.git",
       "skillPath": ".claude/skills/animate/SKILL.md",
-      "skillFolderHash": "3547b42560cfd4c8d9e7e3ec3a3c6af8ff7eb856",
+      "skillFolderHash": "dbea7e85eeff57f59bf3062aa9eb477a636ec5d5",
       "installedAt": "2026-03-06T22:11:03.155Z",
-      "updatedAt": "2026-03-06T22:57:39.745Z"
+      "updatedAt": "2026-03-20T09:48:33.820Z"
     },
     "audit": {
       "source": "pbakaus/impeccable",
       "sourceType": "github",
       "sourceUrl": "git@github.com:pbakaus/impeccable.git",
       "skillPath": ".claude/skills/audit/SKILL.md",
-      "skillFolderHash": "50be827d808657817fc8c649590b618b409955ea",
+      "skillFolderHash": "413c8c926ca401ef678eed42eb3bc7f668934a78",
       "installedAt": "2026-03-06T22:11:03.356Z",
-      "updatedAt": "2026-03-06T22:57:40.114Z"
+      "updatedAt": "2026-03-20T09:48:34.029Z"
     },
     "bolder": {
       "source": "pbakaus/impeccable",
       "sourceType": "github",
       "sourceUrl": "git@github.com:pbakaus/impeccable.git",
       "skillPath": ".claude/skills/bolder/SKILL.md",
-      "skillFolderHash": "7ed9ab387dfdd013248076dd105ee6f0b14792ec",
+      "skillFolderHash": "b094389156619ce4962c1aa8138677d99d565f7b",
       "installedAt": "2026-03-06T22:11:03.575Z",
-      "updatedAt": "2026-03-06T22:57:40.329Z"
+      "updatedAt": "2026-03-20T09:48:34.302Z"
     },
     "clarify": {
       "source": "pbakaus/impeccable",
       "sourceType": "github",
       "sourceUrl": "git@github.com:pbakaus/impeccable.git",
       "skillPath": ".claude/skills/clarify/SKILL.md",
-      "skillFolderHash": "7614abc251a4cce3ff8ec438530b95f0a749ddd9",
+      "skillFolderHash": "583ccc95cf2319cb769099e8f9a5d5fc6e144e1e",
       "installedAt": "2026-03-06T22:11:03.795Z",
-      "updatedAt": "2026-03-06T22:57:40.529Z"
+      "updatedAt": "2026-03-20T09:48:34.573Z"
     },
     "colorize": {
       "source": "pbakaus/impeccable",
       "sourceType": "github",
       "sourceUrl": "git@github.com:pbakaus/impeccable.git",
       "skillPath": ".claude/skills/colorize/SKILL.md",
-      "skillFolderHash": "d1faea839694b3375d6445b2ec15e7e2fb91384c",
+      "skillFolderHash": "666297455a88728a9f3a77ab8d30bf46744d1486",
       "installedAt": "2026-03-06T22:11:04.023Z",
-      "updatedAt": "2026-03-06T22:57:40.792Z"
+      "updatedAt": "2026-03-20T09:48:34.782Z"
     },
     "critique": {
       "source": "pbakaus/impeccable",
       "sourceType": "github",
       "sourceUrl": "git@github.com:pbakaus/impeccable.git",
       "skillPath": ".claude/skills/critique/SKILL.md",
-      "skillFolderHash": "5963d97fb8a16dbf1d197f895791920bda15debd",
+      "skillFolderHash": "be1d9366913e307a5c789fc0fc05b87dd1683e20",
       "installedAt": "2026-03-06T22:11:04.222Z",
-      "updatedAt": "2026-03-06T22:57:41.007Z"
+      "updatedAt": "2026-03-20T09:48:35.048Z"
     },
     "delight": {
       "source": "pbakaus/impeccable",
       "sourceType": "github",
       "sourceUrl": "git@github.com:pbakaus/impeccable.git",
       "skillPath": ".claude/skills/delight/SKILL.md",
-      "skillFolderHash": "3f2a7adc6423ee3333c1f5e3220a17c02222bf01",
+      "skillFolderHash": "bd34603a69876807cf0f5d0cbcb3ee25b423e524",
       "installedAt": "2026-03-06T22:11:04.443Z",
-      "updatedAt": "2026-03-06T22:57:41.296Z"
+      "updatedAt": "2026-03-20T09:48:35.333Z"
     },
     "distill": {
       "source": "pbakaus/impeccable",
       "sourceType": "github",
       "sourceUrl": "git@github.com:pbakaus/impeccable.git",
       "skillPath": ".claude/skills/distill/SKILL.md",
-      "skillFolderHash": "14fa0cb15391368a80a25664fd613837ad9fffca",
+      "skillFolderHash": "8a2330ecc193779b1598913910cfefd9aed2ff2f",
       "installedAt": "2026-03-06T22:11:04.689Z",
-      "updatedAt": "2026-03-06T22:57:41.531Z"
+      "updatedAt": "2026-03-20T09:48:35.619Z"
     },
     "extract": {
       "source": "pbakaus/impeccable",
       "sourceType": "github",
       "sourceUrl": "git@github.com:pbakaus/impeccable.git",
       "skillPath": ".claude/skills/extract/SKILL.md",
-      "skillFolderHash": "c1dbec9357af104514eada7d3c952d78eed73ddf",
+      "skillFolderHash": "91b6499a2df9047890c4dd90ff34cedd624abe63",
       "installedAt": "2026-03-06T22:11:04.899Z",
-      "updatedAt": "2026-03-06T22:57:41.795Z"
+      "updatedAt": "2026-03-20T09:48:35.856Z"
     },
     "frontend-design": {
       "source": "pbakaus/impeccable",
       "sourceType": "github",
       "sourceUrl": "git@github.com:pbakaus/impeccable.git",
       "skillPath": ".claude/skills/frontend-design/SKILL.md",
-      "skillFolderHash": "b90c422789595fe447d43acbcfde4531bc79c4e1",
+      "skillFolderHash": "74758cc6868b8431d44f1630f12b18cb28074f3c",
       "installedAt": "2026-03-06T22:11:05.114Z",
-      "updatedAt": "2026-03-06T22:57:41.984Z"
+      "updatedAt": "2026-03-20T09:48:36.077Z"
     },
     "harden": {
       "source": "pbakaus/impeccable",
       "sourceType": "github",
       "sourceUrl": "git@github.com:pbakaus/impeccable.git",
       "skillPath": ".claude/skills/harden/SKILL.md",
-      "skillFolderHash": "da4db9a8d67927f231cee8ec8f132bf329400636",
+      "skillFolderHash": "1a034fd4fb8e8c9add198bdba08eb0af27cd819d",
       "installedAt": "2026-03-06T22:11:05.358Z",
-      "updatedAt": "2026-03-06T22:57:42.190Z"
+      "updatedAt": "2026-03-20T09:48:36.357Z"
     },
     "normalize": {
       "source": "pbakaus/impeccable",
       "sourceType": "github",
       "sourceUrl": "git@github.com:pbakaus/impeccable.git",
       "skillPath": ".claude/skills/normalize/SKILL.md",
-      "skillFolderHash": "094ef52816dda05fb269c11e1e761ee98872a402",
+      "skillFolderHash": "d32af5b0e28ca1fa3c8f4448e24f34ca8e08622b",
       "installedAt": "2026-03-06T22:11:05.611Z",
-      "updatedAt": "2026-03-06T22:57:42.401Z"
+      "updatedAt": "2026-03-20T09:48:36.625Z"
     },
     "onboard": {
       "source": "pbakaus/impeccable",
       "sourceType": "github",
       "sourceUrl": "git@github.com:pbakaus/impeccable.git",
       "skillPath": ".claude/skills/onboard/SKILL.md",
-      "skillFolderHash": "38c232ca4c4cf05f34a91b2b5e733746651a7c7e",
+      "skillFolderHash": "234c6ceafc9b92b41a981f2f7101cd7ed40f33b9",
       "installedAt": "2026-03-06T22:11:05.849Z",
-      "updatedAt": "2026-03-06T22:57:42.598Z"
+      "updatedAt": "2026-03-20T09:48:36.838Z"
     },
     "optimize": {
       "source": "pbakaus/impeccable",
       "sourceType": "github",
       "sourceUrl": "git@github.com:pbakaus/impeccable.git",
       "skillPath": ".claude/skills/optimize/SKILL.md",
-      "skillFolderHash": "43c980b861eb296725b09c9cbc9cc3101b257216",
+      "skillFolderHash": "38f8a01772f4c6cce285c164e072c487ccec6a09",
       "installedAt": "2026-03-06T22:11:06.082Z",
-      "updatedAt": "2026-03-06T22:57:42.822Z"
+      "updatedAt": "2026-03-20T09:48:37.079Z"
     },
     "polish": {
       "source": "pbakaus/impeccable",
       "sourceType": "github",
       "sourceUrl": "git@github.com:pbakaus/impeccable.git",
       "skillPath": ".claude/skills/polish/SKILL.md",
-      "skillFolderHash": "2c566f72fe31eb66ee2a08ea34dc20262ab7f11f",
+      "skillFolderHash": "e53a7ea6900412f8e00d8cd7044a1ac96795ee54",
       "installedAt": "2026-03-06T22:11:06.289Z",
-      "updatedAt": "2026-03-06T22:57:43.027Z"
+      "updatedAt": "2026-03-20T09:48:37.331Z"
     },
     "quieter": {
       "source": "pbakaus/impeccable",
       "sourceType": "github",
       "sourceUrl": "git@github.com:pbakaus/impeccable.git",
       "skillPath": ".claude/skills/quieter/SKILL.md",
-      "skillFolderHash": "9f8fd9d233460e77171c7fad08c8cb46041c1a62",
+      "skillFolderHash": "762a95b2c83e147e300c59c296af98aad6f26528",
       "installedAt": "2026-03-06T22:11:06.508Z",
-      "updatedAt": "2026-03-06T22:57:43.232Z"
+      "updatedAt": "2026-03-20T09:48:37.598Z"
     },
     "teach-impeccable": {
       "source": "pbakaus/impeccable",
       "sourceType": "github",
       "sourceUrl": "git@github.com:pbakaus/impeccable.git",
       "skillPath": ".claude/skills/teach-impeccable/SKILL.md",
-      "skillFolderHash": "c8f7b87dca283841efbbb8769e67ca0512474c42",
+      "skillFolderHash": "77e1fdab8a587ae6e3b46d08126a51309dd2bace",
       "installedAt": "2026-03-06T22:11:06.740Z",
-      "updatedAt": "2026-03-06T22:57:43.498Z"
+      "updatedAt": "2026-03-20T09:48:37.806Z"
     },
     "find-skills": {
       "source": "vercel-labs/skills",
       "sourceType": "github",
       "sourceUrl": "git@github.com:vercel-labs/skills.git",
       "skillPath": "skills/find-skills/SKILL.md",
-      "skillFolderHash": "c2f31172b6f256272305a5e6e7228b258446899f",
+      "skillFolderHash": "3013fdeb8a11b10b1eb795ec3ae8bfca38f7c26d",
       "installedAt": "2026-03-06T22:11:07.703Z",
-      "updatedAt": "2026-03-06T22:57:45.198Z"
+      "updatedAt": "2026-03-20T09:46:04.122Z"
     },
     "k3s-helm-deploy": {
       "source": "nomaitech/skills",
@@ -429,7 +429,16 @@
       "skillPath": "skills/k3s-helm-deploy/SKILL.md",
       "skillFolderHash": "3022bd63fd000cef32436778c64b8bfb2c930a8d",
       "installedAt": "2026-03-06T22:22:03.688Z",
-      "updatedAt": "2026-03-06T22:57:46.744Z"
+      "updatedAt": "2026-03-20T09:46:06.070Z"
+    },
+    "web-design-guidelines": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "git@github.com:vercel-labs/agent-skills.git",
+      "skillPath": "skills/web-design-guidelines/SKILL.md",
+      "skillFolderHash": "3116f3e62dbd02b44a598b1aa690d2a8938e8f89",
+      "installedAt": "2026-03-20T09:41:12.713Z",
+      "updatedAt": "2026-03-20T09:46:07.964Z"
     }
   },
   "dismissed": {
@@ -444,6 +453,7 @@
     "github-copilot",
     "kimi-cli",
     "opencode",
+    "warp",
     "claude-code"
   ]
 }
